@@ -19,12 +19,12 @@ const ANIMATION = {
  * Generates and downloads a vCard contact file, with an improved method for iOS.
  */
 function saveContact() {
-    const name = 'Talha Zunayeed';
+    const name = 'Sayma Islam';
     const organization = 'Mind Mentor Overseas';
-    const title = 'Sr. Executive';
+    const title = 'Executive - Application';
     const officePhone = '+8801329739733';
-    const personalPhone = '+8801681443260';
-    const email = 'talha@mindmentoroverseas.com';
+    const personalPhone = '';
+    const email = 'sayma@mindmentoroverseas.com';
     const secondaryEmail = '';
     const website = 'https://mindmentoroverseas.com';
     const address = 'Mind Mentor Overseas Ltd, Dhaka, Bangladesh';
